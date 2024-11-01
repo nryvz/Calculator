@@ -1,2 +1,1 @@
-# hesap-makinas-
-hesap makinası
+js based calculator program
